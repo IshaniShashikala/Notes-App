@@ -4,7 +4,7 @@ This is a Nodejs application which gets input from the user via command line and
 
 ## Tech Stack
 
-**Server:** Node, Express
+Nodejs
 
 ## Getting Started
 ### Run Locally
